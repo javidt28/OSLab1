@@ -4,4 +4,8 @@
 #
 # <Javid Mitchell>
 
-solution: main.c list.c list.h
+list: main.c
+	gcc -o main main.c list.c
+
+clean:
+	rm main

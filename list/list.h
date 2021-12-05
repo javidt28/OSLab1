@@ -2,7 +2,7 @@
 // 
 // Interface definition for linked list.
 //
-// <Author>
+// <Javid Mitchell>
 
 #include <stdbool.h>
 
